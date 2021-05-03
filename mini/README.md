@@ -6,7 +6,7 @@
 
 本项目诞生之初是为了适配Quantumult X 1.07版本新增的机场订阅img-url特性，经过不断发展，包含了机场订阅图标，Task图标，节点地区图标，策略组图标等
 
-本项目可用于QuantumultX 1.07及以上版本，和Pharos Pro 1.3.3及以上版本中
+本项目可用于QuantumultX 1.07及以上版本，Loon 2.1.10(278)以上，和Pharos Pro 1.3.3及以上版本中
 
 **注意：** 本项目图标可用于订阅，Task，策略组等位置的远程引用
 
@@ -53,36 +53,40 @@
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/机场.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.5-1.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/模板1.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.5-2.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/模板2.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.5-3.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/模板3.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.5-4.png)
-
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.5-5.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/模板4.png)
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/彩蛋.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.5-彩蛋.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/模板5.png)
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/彩色.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略1.png)
+
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/策略2.png)
+
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/地区.png)
+
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/地区1.png)
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/Task.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-1.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-1.jpg)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-2.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-2.jpg)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-3.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-3.jpg)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-4.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-4.jpg)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-5.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-5.jpg)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-6.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-6.jpg)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-7.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/-7.jpg)
